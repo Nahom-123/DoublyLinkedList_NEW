@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "39A7BE41-6A64-4902-BE2F-86E6EF53326A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "04FA100E-2B43-4FF1-A253-E7A908D41797"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DoublyLinkedList/DoublyLinkedList.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "DLinkedList::~DLinkedList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "04FA100E-2B43-4FF1-A253-E7A908D41797 - 54dd098aa763f910"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DLinkedList::~DLinkedList()"
+                  moduleName = "DoublyLinkedList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kifledagnew/Desktop/DoublyLinkedList/DoublyLinkedList/DoublyLinkedList.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "04FA100E-2B43-4FF1-A253-E7A908D41797 - 54dd098aa763f910"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DLinkedList::~DLinkedList()"
+                  moduleName = "DoublyLinkedList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kifledagnew/Desktop/DoublyLinkedList/DoublyLinkedList/DoublyLinkedList.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
