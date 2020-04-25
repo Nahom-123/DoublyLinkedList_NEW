@@ -25,6 +25,7 @@ DLinkedList::~DLinkedList(){
     delete header;
     delete trailer;
 }
+
 void DLinkedList::add(DNode* new_head , const Elem &e){
     DNode* node = new DNode;
     node->elem = e;
@@ -69,7 +70,7 @@ DNode* DLinkedList::find(const Elem& e) const{
 
 void DLinkedList::printAll(){
         
-    cout<< front() << endl;
+    cout<<"Front Name: "<<  front()<< endl;
     cout << back() << endl;
 
 }
